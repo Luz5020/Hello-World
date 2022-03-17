@@ -1,4 +1,4 @@
 # Hello-World
 It starts here
 
-And this is the first edit, kinda fun
+I can say that this Version (Indev 01) won't contain anything Noteworthy yet, but rather serve as a Setup version
