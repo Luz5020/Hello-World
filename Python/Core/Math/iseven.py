@@ -1,7 +1,6 @@
-# floatnumber = float(2)
-# x = floatnumber % 2
+# TODO: Pack this into a Function
 number = input("Enter number now:\n")
-number = int(number)
+number = float(number)
 x = number % 2
 if x == 0:
     print("number is even")
