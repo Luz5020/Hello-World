@@ -3,3 +3,15 @@ Indev 01
 -Added Dummy Files to help restructure Repo 
 -Added Folders
 -Added Patchlog
+Indev 02 (Warning!: Development Prototype!)
+-Added first actual Files
+-Removed Dummy Files
+-Added C.O.R.E. Structure (Cool Offshore Recompiler Event)
+-Added C.O.R.E. Math Module
+-Added Math addition (single file)
+-Added Math subtraction (single file)
+-Added Math iseven (single file)
+-Added Math multiplication (single file)
+-Added Math divison (single file)
+-Added the playground
+-Files in playground are not eligible for mentioning in this Changelog
