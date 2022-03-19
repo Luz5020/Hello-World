@@ -23,3 +23,4 @@ Indev 03 experimental commit
 -Reworked C.O.R.E. Math
 -Removed Redundant Files (Stage 1 isolation)
 -Added Debug functionality to C.O.R.E. Module
+-Added Init Phase to make C.O.R.E. look cool!
