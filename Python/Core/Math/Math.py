@@ -1,3 +1,21 @@
+import time
+
+
+def loadingscreen():
+    print("C.O.R.E./Math.py initiating...")
+    time.sleep(2)
+    print("Math: Loading Modules: Basic Operators...")
+    time.sleep(3)
+    print("Math: Loading Modules: Boolean Operators...")
+    time.sleep(1)
+    print("Math: Detecting String Output for Boolean, switching...")
+    time.sleep(6)
+    print("Math: Modules loaded")
+    time.sleep(0.5)
+    print("C.O.R.E./Math.py initiated!")
+    time.sleep(3)
+
+
 def addition():
     number1 = input("Enter first Number:\n")
     number2 = input("Enter second Number:\n")

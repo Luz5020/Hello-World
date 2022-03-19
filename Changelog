@@ -19,3 +19,7 @@ Indev 03 (Warning!: Development Prototype!)
 -Reworked all Math sub-core modules for operations with functions
 -Fixed newline issues
 -Minor fixes
+Indev 03 experimental commit
+-Reworked C.O.R.E. Math
+-Removed Redundant Files (Stage 1 isolation)
+-Added Debug functionality to C.O.R.E. Module
