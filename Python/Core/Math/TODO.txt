@@ -1,1 +1,4 @@
 Pack everything into a functions and then into one file (math.py)
+First part done, second one more difficult, moving to new Task
+Figure out how to handoff inputs to the functions, start with a testbench, and importing.
+Implement return statements

@@ -1,6 +1,11 @@
-# TODO Pack this into a function
-Factor1 = input("Enter first Factor:\n")
-Factor2 = input("Enter second Factor:\n")
-Factor1 = float(Factor1)
-Factor2 = float(Factor2)
-print(Factor1*Factor2)
+def multiplication():
+    factor1 = input("Enter first Factor:\n")
+    factor2 = input("Enter second Factor:\n")
+    factor1 = float(factor1)
+    factor2 = float(factor2)
+    # When integrating, turn these into return statements
+    print(factor1 * factor2)
+
+
+# call as debug
+multiplication()
