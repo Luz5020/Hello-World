@@ -15,3 +15,7 @@ Indev 02 (Warning!: Development Prototype!)
 -Added Math divison (single file)
 -Added the playground
 -Files in playground are not eligible for mentioning in this Changelog
+Indev 03 (Warning!: Development Prototype!)
+-Reworked all Math subcore modules for operations with functions
+-Fixed newline issues
+-Minor fixes
