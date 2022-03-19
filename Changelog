@@ -12,6 +12,15 @@ Indev 02 (Warning!: Development Prototype!)
 -Added Math subtraction (single file)
 -Added Math iseven (single file)
 -Added Math multiplication (single file)
--Added Math divison (single file)
+-Added Math division (single file)
 -Added the playground
 -Files in playground are not eligible for mentioning in this Changelog
+Indev 03 (Warning!: Development Prototype!)
+-Reworked all Math sub-core modules for operations with functions
+-Fixed newline issues
+-Minor fixes
+Indev 03 experimental commit
+-Reworked C.O.R.E. Math
+-Removed Redundant Files (Stage 1 isolation)
+-Added Debug functionality to C.O.R.E. Module
+-Added Init Phase to make C.O.R.E. look cool!
