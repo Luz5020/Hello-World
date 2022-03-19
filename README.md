@@ -8,3 +8,4 @@ Indev02 will contain the first of many Files actually containing something, some
 Some explanation, currently each Indev version will resemble one Day or Session of coding, pushing commits from an IDE makes the commits in GitHub be very compact, so Branching for each Day of Work is implemented for the current workflow, changes will be announced (also ReadMe is currently a noticeboard)
 
 Indev03 will introduce functions, and even the path to full math.py Sub-core implementation 
+Indev03 is cut short because of Scheduling Reasons, Newline Issues are fixed and Math.py is implemented
