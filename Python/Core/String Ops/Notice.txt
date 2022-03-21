@@ -1,4 +1,0 @@
-stringLength.py is a test, other string operations should be integrated directly,
-as adding them as standalone would be stupid, even for me.
-It's a question wether Sting Ops will be necessary in the long run but it will be a good lesson for handling multiple
-functions.
