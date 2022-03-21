@@ -24,3 +24,6 @@ Indev 03 experimental commit
 -Removed Redundant Files (Stage 1 isolation)
 -Added Debug functionality to C.O.R.E. Module
 -Added Init Phase to make C.O.R.E. look cool!
+Indev 04 (Dev Prototype (Duh))
+-Added Usable Math file to actually use it like a calculator
+-Deleted some Stuff... Check the Logs for indepth stuff
