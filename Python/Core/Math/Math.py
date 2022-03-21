@@ -2,6 +2,8 @@ import time
 
 
 def loadingscreen():
+    print("C.O.R.E.: Invoking Math.py sub-core!")
+
     print("C.O.R.E./Math.py initiating...")
     time.sleep(2)
     print("Math: Loading Modules: Basic Operators...")
