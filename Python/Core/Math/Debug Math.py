@@ -1,19 +1,19 @@
-import Math
 import Coreload
+import DIYMath
 
 # Loadingscreen
 Coreload.loadingeffectstart()
-Math.loadingscreen()
+DIYMath.loadingscreen()
 Coreload.loadingeffectend()
 # End Loadingscreen
 print("Addition Test")
-Math.addition()
+DIYMath.addition()
 print("IsEven Test")
-Math.iseven()
+DIYMath.iseven()
 print("Multiplication Test")
-Math.multiplication()
+DIYMath.multiplication()
 print("Subtraction Test")
-Math.subtraction()
+DIYMath.subtraction()
 print("Division Test")
-Math.division()
+DIYMath.division()
 print("All Tests concluded")

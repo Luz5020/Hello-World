@@ -1,11 +1,11 @@
 import time
 
 import Coreload
-import Math
+import DIYMath
 
 # LoadingscreenFX
 Coreload.loadingeffectstart()
-Math.loadingscreen()
+DIYMath.loadingscreen()
 Coreload.loadingeffectend()
 # End LoadingscreenFX
 print("Select Operation:")
@@ -22,19 +22,19 @@ try:
 except ValueError:
     time.sleep(0.1)
 if X == 1:
-    Math.addition()
+    DIYMath.addition()
     input("Press Enter Key to Exit")
 elif X == 2:
-    Math.subtraction()
+    DIYMath.subtraction()
     input("Press Enter Key to Exit")
 elif X == 3:
-    Math.multiplication()
+    DIYMath.multiplication()
     input("Press Enter Key to Exit")
 elif X == 4:
-    Math.division()
+    DIYMath.division()
     input("Press Enter Key to Exit")
 elif X == 5:
-    Math.iseven()
+    DIYMath.iseven()
     input("Press Enter Key to Exit")
 else:
     print("Invalid Input")
