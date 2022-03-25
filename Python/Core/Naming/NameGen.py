@@ -1,3 +1,4 @@
+# Move Resizing to ext operation
 import random
 
 import pandas as pd
@@ -5,7 +6,7 @@ import pandas as pd
 
 def namegen():
     col_list = ["yr", "sex", "FirstForename", "number", "rank", "position"]
-    df = pd.read_csv("Names.csv", usecols=col_list)
+    df = pd.read_csv("Names_Short.csv", usecols=col_list)
     for x in df.index:
         if df.loc[x, "yr"] < 2010:
             df.drop(x, inplace=True)
