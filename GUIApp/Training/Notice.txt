@@ -1,2 +1,6 @@
 Got to Example build in the tutorial
 https://realpython.com/python-gui-tkinter/
+Other Stuff when you built this:
+Package it to a Runtime
+Build a little Download Server for it to learn some more docker
+And then, do something with mySQL
