@@ -60,4 +60,5 @@ def db_init():
   return 'init database'
 
 if __name__ == "__main__":
-  app.run(host ='0.0.0.0')
+  #Uncomment before running, or change to something that works on your machnie
+  #app.run(host ='0.0.0.0')
