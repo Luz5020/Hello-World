@@ -1,3 +1,6 @@
+#  Copyright (c) 2022. luz5020
+#  Approved for use in Open Source Projects
+
 from datetime import timedelta
 
 from flask import Flask, url_for, redirect, render_template, request, session
