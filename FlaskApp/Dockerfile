@@ -2,6 +2,6 @@
 FROM python:3.8-slim-buster
 WORKDIR /FlaskApp
 COPY reqs.txt reqs.txt
-RUN pip3 install -r reqs.txt
+RUN pip3 install --no-cache-dir -r reqs.txt
 COPY . .
 CMD [ "python3", "-m", "flask", "run", "--host=0.0.0.0"]
