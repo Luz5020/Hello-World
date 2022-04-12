@@ -6,4 +6,3 @@ def GenName():
     y = NameGen.namegen()
     z = NameGen.namegen()
     return x + "." + y + "." + z
-
