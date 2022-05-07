@@ -9,11 +9,11 @@ app = Flask(__name__)
 
 
 # Render-group
-@app.route('/', )
+@app.route('/')
 def home():
     return render_template('index.html')
 
 
 # Run
 if __name__ == '__main__':
-    app.run
+    app.run()
